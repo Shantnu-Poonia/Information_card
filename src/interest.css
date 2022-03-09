@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: poppins;
+}
+
+.interest{
+    padding: 20px;
+}
+
+#interest_text{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.logo{
+    font-size: xxx-large;
+    padding: 10px;
+}
